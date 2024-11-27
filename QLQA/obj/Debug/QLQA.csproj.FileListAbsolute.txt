@@ -1,0 +1,448 @@
+D:\C#\QLQA\QLQA\bin\Debug\QLQA.exe.config
+D:\C#\QLQA\QLQA\bin\Debug\QLQA.exe
+D:\C#\QLQA\QLQA\bin\Debug\QLQA.pdb
+D:\C#\QLQA\QLQA\bin\Debug\Guna.UI2.dll
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.csproj.SuggestedBindingRedirects.cache
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.flogin.resources
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.exe
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.pdb
+D:\C#\QLQA\QLQA\obj\Debug\QLQA.fMain.resources
+D:\C#\Restaurant-Manager\QLQA\bin\Debug\QLQA.pdb
+D:\C#\Restaurant-Manager\QLQA\bin\Debug\Guna.UI2.dll
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.flogin.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.fMain.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.SampleAdd.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.SampleView.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.pdb
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.fHome.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.View.fTableView.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.View.fProductView.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fManage.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+D:\C#\Restaurant-Manager\QLQA\bin\Debug\QLQA.exe.config
+D:\C#\Restaurant-Manager\QLQA\bin\Debug\QLQA.exe
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.csproj.SuggestedBindingRedirects.cache
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.exe
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+D:\C#\Restaurant-Manager\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+D:\C#\QLQA-Project\QLQA\bin\Debug\QLQA.exe.config
+D:\C#\QLQA-Project\QLQA\bin\Debug\QLQA.exe
+D:\C#\QLQA-Project\QLQA\bin\Debug\QLQA.pdb
+D:\C#\QLQA-Project\QLQA\bin\Debug\Guna.UI2.dll
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.SuggestedBindingRedirects.cache
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.flogin.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fMain.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fManage.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.SampleAdd.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.SampleView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.View.fProductView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.View.fTableView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.exe
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.pdb
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCheckout.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAddCustomer.resources
+D:\C#\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Shared.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\log4net.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\log4net.xml
+D:\C#\QLQA-Project\QLQA\bin\Debug\EntityFramework.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\EntityFramework.xml
+D:\C#\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintProduct.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fExportOrder.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.ResolveComReference.cache
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintBill.resources
+D:\C#\QLQA-Project\QLQA\bin\Debug\zxing.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\zxing.presentation.dll
+D:\C#\QLQA-Project\QLQA\bin\Debug\zxing.xml
+D:\C#\QLQA-Project\QLQA\bin\Debug\zxing.presentation.xml
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fQrMomo.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintStaff.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.View.fAccountView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAccountAdd.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fHomeView.resources
+D:\C#\QLQA-Project\QLQA\obj\Debug\QLQA.fStatisView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\QLQA.exe.config
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\QLQA.exe
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\QLQA.pdb
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Shared.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\EntityFramework.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\Guna.UI2.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\log4net.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\zxing.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\zxing.presentation.dll
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\EntityFramework.xml
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.xml
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\log4net.xml
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\zxing.xml
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\bin\Debug\zxing.presentation.xml
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.SuggestedBindingRedirects.cache
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.ResolveComReference.cache
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fExportOrder.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fHomeView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.flogin.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fMain.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintBill.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintProduct.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintStaff.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fQrMomo.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.fStatisView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAccountAdd.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAddCustomer.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCheckout.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fManage.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.SampleAdd.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.SampleView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.View.fAccountView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.View.fProductView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.View.fTableView.resources
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CopyComplete
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.exe
+D:\DaiHoc\CSharp\QLQA-Project\QLQA\obj\Debug\QLQA.pdb
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.exe.config
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.exe
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.pdb
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Shared.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\Guna.UI2.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\log4net.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.presentation.dll
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.xml
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.xml
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\log4net.xml
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.xml
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.presentation.xml
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.ResolveComReference.cache
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fExportOrder.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fHomeView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.flogin.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fMain.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintBill.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintProduct.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintStaff.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fQrMomo.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fStatisView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAccountAdd.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAddCustomer.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCheckout.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fManage.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.SampleAdd.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.SampleView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fAccountView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fProductView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fTableView.resources
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.Up2Date
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.exe
+C:\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.pdb
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.exe.config
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.exe
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.pdb
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\log4net.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.presentation.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\log4net.xml
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.xml
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.presentation.xml
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.ResolveComReference.cache
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fExportOrder.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fHomeView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.flogin.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fMain.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintBill.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintProduct.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintStaff.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fQrMomo.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fStatisView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAccountAdd.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAddCustomer.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCheckout.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fManage.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.SampleAdd.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.SampleView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fAccountView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fProductView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fTableView.resources
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.Up2Date
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.exe
+C:\Users\ADMIN\Downloads\QL_QuanAn\QL_QuanAn\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.pdb
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.exe.config
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.exe
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\QLQA.pdb
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\Guna.UI2.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\log4net.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.presentation.dll
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.xml
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\log4net.xml
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.xml
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\bin\Debug\zxing.presentation.xml
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.ResolveComReference.cache
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fExportOrder.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fHomeView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.flogin.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fMain.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintBill.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintProduct.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintStaff.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fQrMomo.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.fStatisView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAccountAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAddCustomer.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCheckout.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fManage.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.SampleAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.SampleView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fAccountView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fProductView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.View.fTableView.resources
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.Up2Date
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.exe
+C:\Users\thamt\OneDrive\Máy tính\QL_QuanAn\QLQA-Project\QLQA\obj\Debug\QLQA.pdb
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\QLQA.exe.config
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\QLQA.exe
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\QLQA.pdb
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\EntityFramework.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\Guna.UI2.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\log4net.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\zxing.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\zxing.presentation.dll
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\EntityFramework.xml
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\log4net.xml
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\zxing.xml
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\bin\Debug\zxing.presentation.xml
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.AssemblyReference.cache
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.ResolveComReference.cache
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fExportOrder.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fHomeView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.flogin.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fMain.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintBill.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintProduct.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fPrintStaff.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fQrMomo.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.fStatisView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAccountAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fAddCustomer.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fBillList.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCategoryAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fCheckout.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fManage.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fProductAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fStaffAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fTableSelect.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.fWaiterSelect.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Model.ucProduct.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.Properties.Resources.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.SampleAdd.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.SampleView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.View.fAccountView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.View.fCategoryView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.View.fKitchenView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.View.fProductView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.View.fStaffView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.View.fTableView.resources
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.GenerateResource.cache
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.CoreCompileInputs.cache
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.csproj.Up2Date
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.exe
+C:\Users\thamt\OneDrive\Máy tính\Xay_dung_phan_mem_Quan_ly_Nha_Hang\QLQA-Project\QLQA\obj\Debug\QLQA.pdb
